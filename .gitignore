@@ -1,0 +1,7 @@
+dataset
+DynUNet*
+*.png
+*.tif
+slurm*
+temp*
+train_new.py
